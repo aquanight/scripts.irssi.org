@@ -1,10 +1,23 @@
 ---
 -
   authors: "Marcin 'Qrczak' Kowalczyk, Johan 'ion' Kiviniemi"
+  commands:
+    - find
+    - flag
+    - mask
+    - 'mask add'
+    - 'mask remove'
+    - trust
+    - user
+    - 'user add'
+    - 'user list'
+    - 'user remove'
+    - 'user rename'
   contact: qrczak@knm.org.pl
   default_package: people
   description: 'Userlist with autoopping, autokicking etc.'
   license: 'GNU GPL'
+  modified: '2015-02-01 18:29:23'
   modules:
     - Crypt::PasswdMD5
   name: People

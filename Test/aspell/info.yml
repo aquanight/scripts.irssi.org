@@ -1,12 +1,15 @@
 ---
 -
   authors: 'Isaac Good (yitz_), Tom Feist (shabble)'
+  commands:
+    - spellcheck
   contact: 'irssi@isaacgood.com, shabble+irssi@metavore.org'
   default_package: aspell
   description: 'ASpell spellchecking system for Irssi'
   license: MIT
+  modified: '2016-10-06 17:55:58'
   modules:
     - Text::Aspell
   name: aspell
   updated: 2011-10-27
-  version: 1.6.1
+  version: 1.6.2

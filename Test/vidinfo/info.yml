@@ -1,11 +1,15 @@
 ---
 -
   authors: 'Olof "zibri" Johansson, Cyprien Debu'
-  changed: 2014-07
+  changed: 2017-10-09
+  commands:
+    - vidinfo
+    - 'vidinfo help'
   contact: 'olof@ethup.se, frey@notk.org'
   default_package: vidinfo
   description: 'Prints some info of a linked video automatically'
   license: GPL
+  modified: '2017-10-09 18:50:19'
   modules:
     - HTML::Entities
     - JSON::Parse
@@ -15,4 +19,4 @@
     - URI::QueryParam
     - XML::Simple
   name: vidinfo
-  version: '1.00'
+  version: '1.01'

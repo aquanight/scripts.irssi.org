@@ -1,10 +1,13 @@
 ---
 -
   authors: BC-bd
+  commands:
+    - neatcolor
   contact: bd@bc-bd.org
   default_package: nm
   description: 'right aligned nicks depending on longest nick'
   license: 'GPL v2'
+  modified: '2014-10-19 11:54:16'
   name: nm
   url: http://bc-bd.org/blog/irssi/
   version: 0.3.10

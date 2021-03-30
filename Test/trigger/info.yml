@@ -1,11 +1,23 @@
 ---
 -
   authors: 'Wouter Coekaerts'
-  changed: '$LastChangedDate: 2009-02-07 21:35:47 +0100 (Sat, 07 Feb 2009) $'
+  changed: 2020-03-10
+  commands:
+    - 'help trigger'
+    - trigger
+    - 'trigger add'
+    - 'trigger change'
+    - 'trigger delete'
+    - 'trigger help'
+    - 'trigger list'
+    - 'trigger move'
+    - 'trigger reload'
+    - 'trigger save'
   contact: wouter@coekaerts.be
   default_package: trigger
   description: 'execute a command or replace text, triggered by an event in irssi'
   license: 'GPLv2 or later'
+  modified: '2020-03-24 17:19:55'
   name: trigger
   url: http://wouter.coekaerts.be/irssi/
-  version: 1.0+
+  version: 1.2.4

@@ -1,10 +1,16 @@
 ---
 -
   authors: 'Victor Ivanov'
+  commands:
+    - rohira
+    - rokata
+    - rorest
   contact: v0rbiz@yahoo.com
   default_package: romajibind
   description: 'Dynamic romaji binds'
   license: 'BSD 2-clause'
+  modified: '2017-04-07 16:34:31'
   name: romajibind
+  sbitems: ro1_sb
   url: http://irssi.org/scripts/
   version: 1.0b
